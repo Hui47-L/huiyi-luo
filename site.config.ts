@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: '',
+  wechat: 'Josie_h_y',
   github: '',
   linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
@@ -55,11 +55,11 @@ export default siteConfig({
   // navigationLinks: [
   //   {
   //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //     pageId: '214195f3c05b80f9a711fe1c2668342c'
   //   },
   //   {
   //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //     pageId: '214195f3c05b802dab0bcc5c53f36e4e'
   //   }
   // ]
 })
