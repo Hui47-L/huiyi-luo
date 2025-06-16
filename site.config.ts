@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '1f1195f3c05b80c68b3ecc8b5b4937bd',
+  rootNotionPageId: '214195f3c05b80dfabf4de0d0af96bb0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Huiyi Luo',
-  domain: 'https://www.notion.so/Huiyi-Luo-1f1195f3c05b80c68b3ecc8b5b4937bd?source=copy_link',
+  domain: 'https://www.notion.so/huiyi-luo-me-214195f3c05b80dfabf4de0d0af96bb0?source=copy_link',
   author: 'Huiyi Luo',
 
   // open graph metadata (optional)
